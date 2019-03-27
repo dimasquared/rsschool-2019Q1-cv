@@ -1,2 +1,2 @@
 # rsschool-2019Q1-cv
-Task "Markdown &amp; Git"
+https://dimasquared.github.io/rsschool-2019Q1-cv/cv
