@@ -1,0 +1,14 @@
+body {
+  max-width: 1024px;
+  margin: auto;
+}
+
+p {
+  margin-left: 20px;
+}
+
+.image {
+  width: 200px;
+  height: 306px;
+  float: right;
+}
